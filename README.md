@@ -1,2 +1,1 @@
-# Extracting and Interpreting the regular season Statistics of basketball
-players
+Extracting and Interpreting the regular season Statistics of basketball players
